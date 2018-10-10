@@ -8,5 +8,6 @@ public class SpsApiTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpsApiTestApplication.class, args);
+//		TODO : need add specification
 	}
 }
